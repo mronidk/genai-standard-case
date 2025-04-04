@@ -21,7 +21,7 @@ Ydermere har I arbejdet sammen på at lave en template over hvilke overskrifter 
 I samarbejde med projektlederne i din organisation har du fået udleveret følgende data:
 - `data/noter_og_dokumenter`: Denne mappe indeholder noter, dokumenter og billeder der kan være relevante for opgaven.
 - `data/eksempler`: Indeholder færdige og godkendte projektbeskrivelser fra tidligere projekter.
-- `data/skabelon`: Denne mappe indeholder en skabelon for projektbeskrivelser. Bemærk venligst at dette er en bruttoskabelon og at det i mange tilfælde ikke altid er nødvendigt at have alle elementer af skabelonen med i projektbeskrivelsen. 
+- `data/skabelon`: Denne mappe indeholder en skabelon for projektbeskrivelserne.
 
 # Basisapplikation
 Udover projektbeskrivelsen er der også lavet en basisapplikation som du kan bruge til at løse casen med. Den finder du under `app` hvor der både ligger en datamodel for projektstrukturen som du kan benytte, samt en simpel frontend applikation. 
