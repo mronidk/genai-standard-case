@@ -5,7 +5,7 @@ Dette repository indeholder en _standard case_ for generative AI. Du finder data
 Du er af ledelsen blevet bedt om at udvikle en generative AI løsning der kan understøtte projektlederne i din organisation. Det drejer sig særligt om projektbeskrivelser som er mangelfulde, eller som ikke lever op til din organisations krav til projektbeskrivelser. Kvaliteten afhænger meget af projektlederen selv og for nogle projektledere bruges der væsentligt tid på at formulere og udfylde projektbeskrivelser som bedre kunne bruges på at drive og lede projekter.
 
 ## Behovsafdækning
-igennem behovsafdækning er du, sammen med interessenterne på dette projekt, blevet enige om følgende formål:
+Igennem behovsafdækning er du, sammen med interessenterne på dette projekt, blevet enige om følgende formål:
 
 >	_For at effektivisere projektbeskrivelsesprocessen skal løsningen bidrage projektlederne i at oprette nye projektbeskrivelser, baseret på deres notater, skitser og andre relevante dokumenter._
 
