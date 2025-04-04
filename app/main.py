@@ -154,17 +154,11 @@ async def generate_project(
     """
     Handles form submission to generate a new project description.
     Args:
-        headings (List[str]): Selected headings from the form.
-        files (List[UploadFile]): Uploaded files.
+        files (Optional[List[UploadFile]]): Uploaded files.
     Returns:
         HTMLResponse: Rendered project description.
     """
-    print(files) # You need to implement the logic to handle the uploaded files and headings
-    # Example: Render the example project description
+    print(files) # You need to implement the logic to handle the uploaded files
+    # This is where your code to process the uploaded files will go.
+    # For now, we will just return the example project description
     return HTMLResponse(content=render_project_description(example_project))
-
-
-# if __name__ == "__main__":
-#     import uvicorn
-
-#     uvicorn.run(app, host="0.0.0.0", port=8000)
